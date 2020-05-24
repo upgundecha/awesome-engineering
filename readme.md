@@ -1,6 +1,6 @@
 # Awesome Engineering Blogs, Handbooks and GitHub repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](https://github.com/upgundecha/awesome-engineering/blob/master/banner.png)
+![](banner.png)
 
 > A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies
 
