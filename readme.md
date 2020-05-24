@@ -11,6 +11,7 @@
 * [Basecamp](#basecamp)
 * [BBC](#bbc)
 * [CapitalOne](#capitalone)
+* [CircleCI](#circleci)
 * [Deliveroo](#deliveroo)
 * [Etsy](#etsy)
 * [Facebook](#facebook)
@@ -22,6 +23,7 @@
 * [Gojek](#gojek)
 * [GovTech Singapore](#govtech-singapore)
 * [IBM](#ibm)
+* [Instagram](#instagram)
 * [LinkedIn](#linkedin)
 * [Lyft](#lyft)
 * [MadTech](#madtech)
@@ -36,6 +38,7 @@
 * [Spotify](#spotify)
 * [Stack Overflow](#stack-overflow)
 * [Stripe](#stripe)
+* [TravisCI](#travisci)
 * [The Guardian](#the-guardian)
 * [Twitter](#twitter)
 * [Uber](#uber)
@@ -51,6 +54,10 @@
 * [Blog](https://developer.amazon.com/blogs)
 * [GitHub Page](https://github.com/amzn)
 
+## Apple
+* [GitHub Page](https://github.com/apple)
+* [Culture: The Original Macintosh]https://www.folklore.org/ - _Anecdotes about the development of  original Macintosh, and the people who made it_
+
 ## Atlassian
 * [Blog](https://www.atlassian.com/blog/atlassian-engineering)
 * [GitHub Page](https://github.com/atlassian)
@@ -59,6 +66,12 @@
 * [Blog](https://m.signalvnoise.com/)
 * [GitHub Page](https://github.com/basecamp)
 * [Handbook](https://github.com/basecamp/handbook)
+* [Books]()
+  * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
+  * [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm)
+  * [REWORK](https://basecamp.com/books/rework)
+  * [REMOTE](https://basecamp.com/books/remote)
+  * [Getting Real](https://basecamp.com/books/getting-real)
 
 ## BBC
 * [Blog](https://www.bbc.co.uk/blogs/internet)
@@ -67,6 +80,10 @@
 ## CapitalOne
 * [Blog](https://medium.com/capital-one-tech)
 * [GitHub Page](https://github.com/capitalone)
+
+## CircleCI 
+* [Blog](https://circleci.com/blog/tag/engineering/)
+* [GitHub Page](https://github.com/circleci)
 
 ## Deliveroo
 * [Blog](https://deliveroo.engineering/)
@@ -99,11 +116,14 @@
 
 ## Google
 * [Blog](https://developers.googleblog.com/)
-* [Book: Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 * [Engineering Practices Guide](https://google.github.io/eng-practices/)
 * [GitHub Page](https://github.com/google)
 * [Google TechDev Guide](https://techdevguide.withgoogle.com/) - _Guide to Technical Development and Software Engineering at Google_
 * [re:Work with Google](https://rework.withgoogle.com/) - _re:Work is a collection of practices, research, and ideas from Google and others to help you put people first_
+* [Books]()
+  * [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+  * [Site Reliability Engineering (SRE) Books](https://landing.google.com/sre/books/)
+  * [How Google Tests Software](https://www.oreilly.com/library/view/how-google-tests/9780132851572/)
 
 ## Gojek
 * [Blog](https://blog.gojekengineering.com/)
@@ -113,9 +133,17 @@
 * [Blog](https://www.tech.gov.sg/media/blogs/listing)
 * [GitHub Page](https://github.com/GovTechSG)
 
+## Hashicorp
+* [Blog](https://medium.com/hashicorp-engineering)
+* [GitHub Pages](https://github.com/hashicorp)
+
 ## IBM
 * [Blog](https://developer.ibm.com/blogs/)
 * [GitHub Page](https://github.com/IBM)
+
+## Instagram
+* [Blog](https://instagram-engineering.com/)
+* [GitHub Page](https://github.com/Instagram)
 
 ## LinkedIn
 * [Blog](https://engineering.linkedin.com/blog)
@@ -175,6 +203,10 @@
 * [Blog](https://stripe.com/blog/engineering)
 * [GitHub Page](https://github.com/stripe)
 * [Magazine: Increment](http://increment.com/) - _A quarterly magazine on Software Engineering topics_
+
+## TravisCI
+* [Blog](https://blog.travis-ci.com/)
+* [GitHub Page](https://github.com/travis-ci)
 
 ## The Guardian
 * [Blog](https://www.theguardian.com/info/series/digital-blog)
