@@ -28,7 +28,7 @@
 * [Instagram](#instagram)
 * [LinkedIn](#linkedin)
 * [Lyft](#lyft)
-* [MadTech](#madtech)
+* [MadeTech](#madetech)
 * [Microsoft](#microsoft)
 * [Monzo](#monzo)
 * [Netflix](#netflix)
@@ -161,11 +161,13 @@
 * [Blog](https://eng.lyft.com/)
 * [GitHub Page](https://github.com/lyft) 
 
-## MadTech
+## MadeTech
 * [Blog](https://www.madetech.com/blog)
 * [GitHub Page](https://github.com/madetech)
 * [Handbook](https://github.com/madetech/handbook)
-
+* [Books]()
+  * [Building High Performance Agile Teams](https://www.madetech.com/resources/books/building-high-performance-agile-teams)
+  
 ## Microsoft
 * [Blog](https://devblogs.microsoft.com/)
 * [GitHub Page](https://github.com/microsoft)
