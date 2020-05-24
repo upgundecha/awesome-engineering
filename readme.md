@@ -7,6 +7,7 @@
 ## Contents
 * [Airbnb](#airbnb)
 * [Amazon](#amazon)
+* [Apple](#apple)
 * [Atlassian](#atlassian)
 * [Basecamp](#basecamp)
 * [BBC](#bbc)
@@ -56,7 +57,7 @@
 
 ## Apple
 * [GitHub Page](https://github.com/apple)
-* [Culture: The Original Macintosh]https://www.folklore.org/ - _Anecdotes about the development of  original Macintosh, and the people who made it_
+* [Culture: The Original Macintosh](https://www.folklore.org/) - _Anecdotes about the development of  original Macintosh, and the people who made it_
 
 ## Atlassian
 * [Blog](https://www.atlassian.com/blog/atlassian-engineering)
