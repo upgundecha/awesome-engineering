@@ -9,7 +9,6 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Make sure the high level list is alphabetcially ordered
-- Do not add certification courses
 
 Thank you for your suggestions!
 
