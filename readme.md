@@ -16,7 +16,7 @@
 * [Facebook](#facebook)
 * [Grab](#grab)
 * [Grammarly](#grammarly)
-* [GitHub](#github)
+* [GitHub Page](#github)
 * [GitLab](#gitlab)
 * [Google](#google)
 * [Gojek](#gojek)
@@ -45,52 +45,52 @@
 
 ## Airbnb
 * [Blog](https://medium.com/airbnb-engineering)
-* [GitHub](https://github.com/airbnb)
+* [GitHub Page](https://github.com/airbnb)
 
 ## Amazon
 * [Blog](https://developer.amazon.com/blogs)
-* [GitHub](https://github.com/amzn)
+* [GitHub Page](https://github.com/amzn)
 
 ## Atlassian
 * [Blog](https://www.atlassian.com/blog/atlassian-engineering)
-* [GitHub](https://github.com/atlassian)
+* [GitHub Page](https://github.com/atlassian)
 
 ## Basecamp
 * [Blog](https://m.signalvnoise.com/)
-* [GitHub](https://github.com/basecamp)
+* [GitHub Page](https://github.com/basecamp)
 * [Handbook](https://github.com/basecamp/handbook)
 
 ## BBC
 * [Blog](https://www.bbc.co.uk/blogs/internet)
-* [GitHub](https://github.com/bbc)
+* [GitHub Page](https://github.com/bbc)
 
 ## CapitalOne
 * [Blog](https://medium.com/capital-one-tech)
-* [GitHub](https://github.com/capitalone)
+* [GitHub Page](https://github.com/capitalone)
 
 ## Deliveroo
 * [Blog](https://deliveroo.engineering/)
-* [GitHub](https://github.com/deliveroo)
+* [GitHub Page](https://github.com/deliveroo)
  
 ## Etsy
 * [Blog](https://codeascraft.com/)
-* [GitHub](https://github.com/etsy)
+* [GitHub Page](https://github.com/etsy)
 
 ## Facebook
 * [Blog](https://engineering.fb.com/)
-* [GitHub](https://github.com/facebook)
+* [GitHub Page](https://github.com/facebook)
 
 ## Grab
 * [Blog](https://engineering.grab.com/)
-* [GitHub](https://github.com/grab)
+* [GitHub Page](https://github.com/grab)
 
 ## Grammarly
 * [Blog](https://www.grammarly.com/blog/engineering/)
-* [GitHub](https://github.com/grammarly)
+* [GitHub Page](https://github.com/grammarly)
 
 ## GitHub
 * [Blog](https://github.blog/category/engineering/)
-* [GitHub](https://github.com/github)
+* [GitHub Page](https://github.com/github)
 * [Handbook](https://about.gitlab.com/handbook/)
 
 ## GitLab
@@ -101,96 +101,96 @@
 * [Blog](https://developers.googleblog.com/)
 * [Book: Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 * [Engineering Practices Guide](https://google.github.io/eng-practices/)
-* [GitHub](https://github.com/google)
+* [GitHub Page](https://github.com/google)
 * [Google TechDev Guide](https://techdevguide.withgoogle.com/) - _Guide to Technical Development and Software Engineering at Google_
 * [re:Work with Google](https://rework.withgoogle.com/) - _re:Work is a collection of practices, research, and ideas from Google and others to help you put people first_
 
 ## Gojek
 * [Blog](https://blog.gojekengineering.com/)
-* [GitHub](https://github.com/gojek)
+* [GitHub Page](https://github.com/gojek)
 
 ## GovTech Singapore
 * [Blog](https://www.tech.gov.sg/media/blogs/listing)
-* [GitHub](https://github.com/GovTechSG)
+* [GitHub Page](https://github.com/GovTechSG)
 
 ## IBM
 * [Blog](https://developer.ibm.com/blogs/)
-* [GitHub](https://github.com/IBM)
+* [GitHub Page](https://github.com/IBM)
 
 ## LinkedIn
 * [Blog](https://engineering.linkedin.com/blog)
-* [GitHub](https://github.com/linkedin)
+* [GitHub Page](https://github.com/linkedin)
 
 ## Lyft
 * [Blog](https://eng.lyft.com/)
-* [GitHub](https://github.com/lyft) 
+* [GitHub Page](https://github.com/lyft) 
 
 ## MadTech
 * [Blog](https://www.madetech.com/blog)
-* [GitHub](https://github.com/madetech)
+* [GitHub Page](https://github.com/madetech)
 * [Handbook](https://github.com/madetech/handbook)
 
 ## Microsoft
 * [Blog](https://devblogs.microsoft.com/)
-* [GitHub](https://github.com/microsoft)
+* [GitHub Page](https://github.com/microsoft)
 
 ## Monzo
 * [Blog](https://monzo.com/blog/technology)
-* [GitHub](https://github.com/monzo)
+* [GitHub Page](https://github.com/monzo)
 
 ## Netflix
 * [Blog](https://netflixtechblog.com/)
-* [GitHub](https://github.com/Netflix)
+* [GitHub Page](https://github.com/Netflix)
 * [Handbook](https://jobs.netflix.com/culture)
 
 ## Paypal
 * [Blog](https://medium.com/paypal-engineering)
-* [GitHub](https://github.com/paypal)
+* [GitHub Page](https://github.com/paypal)
 
 ## Postman
 * [Blog](https://medium.com/better-practices)
-* [GitHub](https://github.com/postmanlabs)
+* [GitHub Page](https://github.com/postmanlabs)
 
 ## Salesforce
 * [Blog](https://developer.salesforce.com/blogs/engineering/)
-* [GitHub](https://github.com/salesforce)
+* [GitHub Page](https://github.com/salesforce)
 
 ## Shopify
 * [Blog](https://engineering.shopify.com/)
-* [GitHub](https://github.com/Shopify)
+* [GitHub Page](https://github.com/Shopify)
 
 ## Slack
 * [Blog](https://slack.engineering/)
-* [GitHub](https://github.com/slackhq)
+* [GitHub Page](https://github.com/slackhq)
 
 ## Spotify
 * [Blog](https://labs.spotify.com/)
-* [GitHub](https://github.com/Spotify)
+* [GitHub Page](https://github.com/Spotify)
 
 ## Stack Overflow
 * [Blog](https://stackoverflow.blog/engineering/)
-* [GitHub](https://github.com/StackExchange)
+* [GitHub Page](https://github.com/StackExchange)
 
 ## Stripe
 * [Blog](https://stripe.com/blog/engineering)
-* [GitHub](https://github.com/stripe)
-* [Magazine: Increment](http://increment.com/) - _A quarterly magazine on Software Engineering topics from Stripe_
+* [GitHub Page](https://github.com/stripe)
+* [Magazine: Increment](http://increment.com/) - _A quarterly magazine on Software Engineering topics_
 
 ## The Guardian
 * [Blog](https://www.theguardian.com/info/series/digital-blog)
-* [GitHub](https://github.com/guardian)
+* [GitHub Page](https://github.com/guardian)
 
 ## Twitter
 * [Blog](https://blog.twitter.com/engineering/en_us.html)
-* [GitHub](https://github.com/twitter)
+* [GitHub Page](https://github.com/twitter)
 
 ## Uber
 * [Blog](https://eng.uber.com/)
-* [GitHub](https://github.com/uber)
+* [GitHub Page](https://github.com/uber)
 
 ## Walmart Labs
 * [Blog](https://medium.com/walmartlabs)
-* [GitHub](https://github.com/walmartlabs)
+* [GitHub Page](https://github.com/walmartlabs)
 
 ---
 
