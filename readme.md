@@ -6,83 +6,191 @@
 
 ## Contents
 * [Airbnb](#airbnb)
+* [Amazon](#amazon)
 * [Atlassian](#atlassian)
 * [Basecamp](#basecamp)
 * [BBC](#bbc)
 * [CapitalOne](#capitalone)
+* [Deliveroo](#deliveroo)
 * [Etsy](#etsy)
 * [Facebook](#facebook)
+* [Grab](#grab)
+* [Grammarly](#grammarly)
 * [GitHub](#github)
 * [GitLab](#gitlab)
-* [LinkedIn](#linkedin) 
+* [Google](#google)
+* [Gojek](#gojek)
+* [GovTech Singapore](#govtech-singapore)
+* [IBM](#ibm)
+* [LinkedIn](#linkedin)
+* [Lyft](#lyft)
+* [MadTech](#madtech)
+* [Microsoft](#microsoft)
 * [Monzo](#monzo)
 * [Netflix](#netflix)
+* [Paypal](#paypal)
+* [Postman](#postman)
+* [Salesforce](#salesforce)
+* [Shopify](#shopify)
+* [Slack](#slack)
 * [Spotify](#spotify)
+* [Stack Overflow](#stack-overflow)
 * [Stripe](#stripe)
+* [The Guardian](#the-guardian)
 * [Twitter](#twitter)
+* [Uber](#uber)
+* [Walmart Labs](#walmart-labs)
+* [Credits](#credits)
 ---
 
 ## Airbnb
-* [Engineering Blog](https://medium.com/airbnb-engineering)
+* [Blog](https://medium.com/airbnb-engineering)
 * [GitHub](https://github.com/airbnb)
 
+## Amazon
+* [Blog](https://developer.amazon.com/blogs)
+* [GitHub](https://github.com/amzn)
+
 ## Atlassian
-* [Engineering Blog](https://www.atlassian.com/blog/atlassian-engineering)
+* [Blog](https://www.atlassian.com/blog/atlassian-engineering)
 * [GitHub](https://github.com/atlassian)
 
 ## Basecamp
-* [Engineering Blog](https://m.signalvnoise.com/)
+* [Blog](https://m.signalvnoise.com/)
 * [GitHub](https://github.com/basecamp)
 * [Handbook](https://github.com/basecamp/handbook)
 
 ## BBC
-* [Engineering Blog](https://www.bbc.co.uk/blogs/internet)
+* [Blog](https://www.bbc.co.uk/blogs/internet)
 * [GitHub](https://github.com/bbc)
 
 ## CapitalOne
-* [Engineering Blog](https://medium.com/capital-one-tech)
+* [Blog](https://medium.com/capital-one-tech)
 * [GitHub](https://github.com/capitalone)
 
+## Deliveroo
+* [Blog](https://deliveroo.engineering/)
+* [GitHub](https://github.com/deliveroo)
+ 
 ## Etsy
-* [Engineering Blog](https://codeascraft.com/)
+* [Blog](https://codeascraft.com/)
 * [GitHub](https://github.com/etsy)
 
 ## Facebook
-* [Engineering Blog](https://engineering.fb.com/)
+* [Blog](https://engineering.fb.com/)
 * [GitHub](https://github.com/facebook)
 
-## GitHub
-* [Engineering Blog](https://github.blog/category/engineering/)
-* [GitHub](https://github.com/github)
+## Grab
+* [Blog](https://engineering.grab.com/)
+* [GitHub](https://github.com/grab)
 
-## GitLab
-* [Engineering Blog](https://about.gitlab.com/blog/categories/engineering/)
+## Grammarly
+* [Blog](https://www.grammarly.com/blog/engineering/)
+* [GitHub](https://github.com/grammarly)
+
+## GitHub
+* [Blog](https://github.blog/category/engineering/)
+* [GitHub](https://github.com/github)
 * [Handbook](https://about.gitlab.com/handbook/)
 
+## GitLab
+* [Blog](https://about.gitlab.com/blog/categories/engineering/)
+* [Handbook](https://about.gitlab.com/handbook/)
+
+## Google
+* [Blog](https://developers.googleblog.com/)
+* [Book: Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+* [Engineering Practices Guide](https://google.github.io/eng-practices/)
+* [GitHub](https://github.com/google)
+* [Google TechDev Guide](https://techdevguide.withgoogle.com/) - _Guide to Technical Development and Software Engineering at Google_
+* [re:Work with Google](https://rework.withgoogle.com/) - _re:Work is a collection of practices, research, and ideas from Google and others to help you put people first_
+
+## Gojek
+* [Blog](https://blog.gojekengineering.com/)
+* [GitHub](https://github.com/gojek)
+
+## GovTech Singapore
+* [Blog](https://www.tech.gov.sg/media/blogs/listing)
+* [GitHub](https://github.com/GovTechSG)
+
+## IBM
+* [Blog](https://developer.ibm.com/blogs/)
+* [GitHub](https://github.com/IBM)
+
 ## LinkedIn
-* [Engineering Blog](https://engineering.linkedin.com/blog)
+* [Blog](https://engineering.linkedin.com/blog)
 * [GitHub](https://github.com/linkedin)
 
+## Lyft
+* [Blog](https://eng.lyft.com/)
+* [GitHub](https://github.com/lyft) 
+
+## MadTech
+* [Blog](https://www.madetech.com/blog)
+* [GitHub](https://github.com/madetech)
+* [Handbook](https://github.com/madetech/handbook)
+
+## Microsoft
+* [Blog](https://devblogs.microsoft.com/)
+* [GitHub](https://github.com/microsoft)
+
 ## Monzo
-* [Engineering Blog](https://monzo.com/blog/technology)
+* [Blog](https://monzo.com/blog/technology)
 * [GitHub](https://github.com/monzo)
 
 ## Netflix
-* [Engineering Blog](https://netflixtechblog.com/)
+* [Blog](https://netflixtechblog.com/)
 * [GitHub](https://github.com/Netflix)
 * [Handbook](https://jobs.netflix.com/culture)
 
+## Paypal
+* [Blog](https://medium.com/paypal-engineering)
+* [GitHub](https://github.com/paypal)
+
+## Postman
+* [Blog](https://medium.com/better-practices)
+* [GitHub](https://github.com/postmanlabs)
+
+## Salesforce
+* [Blog](https://developer.salesforce.com/blogs/engineering/)
+* [GitHub](https://github.com/salesforce)
+
+## Shopify
+* [Blog](https://engineering.shopify.com/)
+* [GitHub](https://github.com/Shopify)
+
+## Slack
+* [Blog](https://slack.engineering/)
+* [GitHub](https://github.com/slackhq)
+
 ## Spotify
-* [Engineering Blog](https://labs.spotify.com/)
+* [Blog](https://labs.spotify.com/)
 * [GitHub](https://github.com/Spotify)
 
+## Stack Overflow
+* [Blog](https://stackoverflow.blog/engineering/)
+* [GitHub](https://github.com/StackExchange)
+
 ## Stripe
-* [Engineering Blog](https://stripe.com/blog/engineering)
+* [Blog](https://stripe.com/blog/engineering)
 * [GitHub](https://github.com/stripe)
+* [Magazine: Increment](http://increment.com/) - _A quarterly magazine on Software Engineering topics from Stripe_
+
+## The Guardian
+* [Blog](https://www.theguardian.com/info/series/digital-blog)
+* [GitHub](https://github.com/guardian)
 
 ## Twitter
-* [Engineering Blog](https://blog.twitter.com/engineering/en_us.html)
+* [Blog](https://blog.twitter.com/engineering/en_us.html)
 * [GitHub](https://github.com/twitter)
+
+## Uber
+* [Blog](https://eng.uber.com/)
+* [GitHub](https://github.com/uber)
+
+## Walmart Labs
+* [Blog](https://medium.com/walmartlabs)
+* [GitHub](https://github.com/walmartlabs)
 
 ---
 
