@@ -1,4 +1,4 @@
-# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![Check Markdown links](https://github.com/upgundecha/awesome-engineering/workflows/Check%20Markdown%20links/badge.svg) ![CI](https://github.com/upgundecha/awesome-engineering/workflows/CI/badge.svg)
+# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![Check Markdown links](https://github.com/upgundecha/awesome-engineering/workflows/Check%20Markdown%20links/badge.svg)
 
 ![Alt](banner.png "banner")
 
