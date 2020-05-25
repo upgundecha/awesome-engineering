@@ -1,4 +1,4 @@
-name: Lint Awesome List
+name: CI
 on:
   # Trigger the workflow on push or pull request,
   # but only for the master branch
@@ -9,13 +9,9 @@ on:
     branches:
       - master
 jobs:
-  awesome-lint:
-    name: "lint: awesome-lint"
-    runs-on: ubuntu-latest
-    steps:
-      - name: "checkout repo"
-        uses: actions/checkout@v2.0.0
-        with:
-          fetch-depth: 0
-      - name: Lint Readme
-        uses: jthegedus/github-action-awesome-lint@68fc989d5a01aa127ce502a59f72ebe4166386f1 # commit_sha of tag v0.1.0
+  markdown-lint:
+    name: markdownlint-cli
+    uses: nosborn/github-action-markdown-cli@v1.1.1
+    with:
+      files: readme.md
+      config_file: ".markdownlint.json"
