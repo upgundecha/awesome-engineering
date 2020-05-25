@@ -1,4 +1,5 @@
 name: CI
+
 on:
   # Trigger the workflow on push or pull request,
   # but only for the master branch
@@ -8,10 +9,12 @@ on:
   pull_request:
     branches:
       - master
+
 jobs:
-    markdown-lint:
+    test:
       runs-on: ubuntu-latest
       steps:
+      - uses: actions/checkout@v1
       - name: markdownlint-cli
       - uses: nosborn/github-action-markdown-cli@v1.1.1
         with:
