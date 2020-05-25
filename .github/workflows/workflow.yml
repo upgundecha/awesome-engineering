@@ -9,12 +9,11 @@ on:
     branches:
       - master
 jobs:
-    test:
-      name: Markdown Lint
+    markdown-lint:
       runs-on: ubuntu-latest
       steps:
-        name: markdownlint-cli
-        uses: nosborn/github-action-markdown-cli@v1.1.1
+      - name: markdownlint-cli
+      - uses: nosborn/github-action-markdown-cli@v1.1.1
         with:
           files: readme.md
           config_file: ".markdownlint.json"
