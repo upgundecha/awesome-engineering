@@ -1,4 +1,4 @@
-# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![Check Markdown links](https://github.com/upgundecha/awesome-engineering/workflows/Check%20Markdown%20links/badge.svg)
+# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![CI](https://github.com/upgundecha/awesome-engineering/workflows/CI/badge.svg) ![Check Markdown links](https://github.com/upgundecha/awesome-engineering/workflows/Check%20Markdown%20links/badge.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ![Alt](banner.png "banner")
 
@@ -297,7 +297,6 @@ Zozo Technologies is a Japanese tech firm
 
 * Banner image used from [https://undraw.co/](https://undraw.co/)
 * [Docup](https://github.com/egoist/docup) to create the website inspired from [howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp)
-
 
 ## Contribute
 
