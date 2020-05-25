@@ -1,4 +1,4 @@
-# Awesome Engineering Blogs, Handbooks and GitHub repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](banner.png)
 
@@ -15,6 +15,7 @@
 * [CapitalOne](#capitalone)
 * [CircleCI](#circleci)
 * [Deliveroo](#deliveroo)
+* [Elastic](#elastic)
 * [Etsy](#etsy)
 * [Facebook](#facebook)
 * [Grab](#grab)
@@ -24,6 +25,7 @@
 * [Google](#google)
 * [Gojek](#gojek)
 * [GovTech Singapore](#govtech-singapore)
+* [Hashicorp](#hashicorp)
 * [IBM](#ibm)
 * [Instagram](#instagram)
 * [LinkedIn](#linkedin)
@@ -74,7 +76,7 @@
 * [Blog](https://m.signalvnoise.com/)
 * [GitHub Page](https://github.com/basecamp)
 * [Handbook](https://github.com/basecamp/handbook)
-* [Books]()
+* Books
   * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
   * [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm)
   * [REWORK](https://basecamp.com/books/rework)
@@ -97,6 +99,11 @@
 * [Blog](https://deliveroo.engineering/)
 * [GitHub Page](https://github.com/deliveroo)
  
+## Elastic
+* [Blog](https://www.elastic.co/blog/category/engineering)
+* [Culture](https://www.elastic.co/blog/category/culture)
+* [GitHub Page](https://github.com/elastic)
+
 ## Etsy
 * [Blog](https://codeascraft.com/)
 * [GitHub Page](https://github.com/etsy)
@@ -127,7 +134,7 @@
 * [GitHub Page](https://github.com/google)
 * [Google TechDev Guide](https://techdevguide.withgoogle.com/) - _Guide to Technical Development and Software Engineering at Google_
 * [re:Work with Google](https://rework.withgoogle.com/) - _re:Work is a collection of practices, research, and ideas from Google and others to help you put people first_
-* [Books]()
+* Books
   * [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
   * [Site Reliability Engineering (SRE) Books](https://landing.google.com/sre/books/)
   * [How Google Tests Software](https://www.oreilly.com/library/view/how-google-tests/9780132851572/)
@@ -164,7 +171,7 @@
 * [Blog](https://www.madetech.com/blog)
 * [GitHub Page](https://github.com/madetech)
 * [Handbook](https://github.com/madetech/handbook)
-* [Books]()
+* Books
   * [Building High Performance Agile Teams](https://www.madetech.com/resources/books/building-high-performance-agile-teams)
 
 ## Microsoft
