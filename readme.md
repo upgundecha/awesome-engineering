@@ -1,4 +1,4 @@
-# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/upgundecha/awesome-engineering/workflows/Lint%20Awesome%20List/badge.svg)
 
 ![](banner.png)
 
