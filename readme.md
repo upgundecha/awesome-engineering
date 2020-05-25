@@ -19,7 +19,7 @@
 * [Facebook](#facebook)
 * [Grab](#grab)
 * [Grammarly](#grammarly)
-* [GitHub Page](#github)
+* [GitHub](#github)
 * [GitLab](#gitlab)
 * [Google](#google)
 * [Gojek](#gojek)
@@ -116,7 +116,6 @@
 ## GitHub
 * [Blog](https://github.blog/category/engineering/)
 * [GitHub Page](https://github.com/github)
-* [Handbook](https://about.gitlab.com/handbook/)
 
 ## GitLab
 * [Blog](https://about.gitlab.com/blog/categories/engineering/)
@@ -167,7 +166,7 @@
 * [Handbook](https://github.com/madetech/handbook)
 * [Books]()
   * [Building High Performance Agile Teams](https://www.madetech.com/resources/books/building-high-performance-agile-teams)
-  
+
 ## Microsoft
 * [Blog](https://devblogs.microsoft.com/)
 * [GitHub Page](https://github.com/microsoft)
