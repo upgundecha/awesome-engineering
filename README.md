@@ -48,6 +48,7 @@
 * [Twitter](#twitter)
 * [Uber](#uber)
 * [Walmart Labs](#walmart-labs)
+* [Wix Engineering](#wix-engineering)
 * [Zozo Technologies](#zozo-technologies)
 
 ---
@@ -283,6 +284,11 @@
 
 * [Blog](https://medium.com/walmartlabs)
 * [GitHub Page](https://github.com/walmartlabs)
+
+## Wix Engineering
+
+* [Blog](https://www.wix.engineering/blog)
+* [GitHub Page](https://github.com/wix)
 
 ## Zozo Technologies
 
