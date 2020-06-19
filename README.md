@@ -314,3 +314,18 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
 related or neighboring rights to this work.
+
+<!--
+
+@startuml firstDiagram
+
+Alice -> Bob: Hello
+Bob -> Alice: Hi!
+
+@enduml
+
+-->
+
+![](firstDiagram.svg)
+
+Test
