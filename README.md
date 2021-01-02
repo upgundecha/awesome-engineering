@@ -92,7 +92,7 @@
   * [REWORK](https://basecamp.com/books/rework)
   * [REMOTE](https://basecamp.com/books/remote)
   * [Getting Real](https://basecamp.com/books/getting-real)
-  * [RSS Feed](https://m.signalvnoise.com/feed/)
+* [RSS Feed](https://m.signalvnoise.com/feed/)
 
 ## BBC
 * [Blog](https://www.bbc.co.uk/blogs/internet)
@@ -335,18 +335,3 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
 related or neighboring rights to this work.
-
-<!--
-
-@startuml firstDiagram
-
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
-
-@enduml
-
--->
-
-![](firstDiagram.svg)
-
-Test
