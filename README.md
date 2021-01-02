@@ -131,7 +131,6 @@
 * [GitHub Page](https://github.com/grab)
 * ![Twitter](https://img.shields.io/twitter/follow/grabengineering?style=social)
 
-
 ## Grammarly
 * [Blog](https://www.grammarly.com/blog/engineering/)
 * [GitHub Page](https://github.com/grammarly)
@@ -140,7 +139,6 @@
 * [Blog](https://github.blog/category/engineering/)
 * [GitHub Page](https://github.com/github)
 * ![Twitter](https://img.shields.io/twitter/follow/GitHubEng?style=social)
-
 
 ## GitLab
 * [Blog](https://about.gitlab.com/blog/categories/engineering/)
@@ -282,6 +280,14 @@
 Zozo Technologies is a Japanese tech firm
 * [Blog](https://techblog.zozo.com/)
 * [GitHub Page](https://github.com/st-tech)
+
+---
+## Book Recommendations
+
+* [Become an Effective Software Engineering Manager by James Stanier](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/)
+* [97 Things Every Engineering Manager Should Know by Camille Fournier](https://www.oreilly.com/library/view/97-things-every/9781492050896/)
+* [The Manager's Path by Camille Fournier](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
+* [The Making of a Manager by Julie Zhuo](https://www.goodreads.com/en/book/show/38821039-the-making-of-a-manager)
 
 ---
 
