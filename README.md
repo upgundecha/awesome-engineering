@@ -13,13 +13,18 @@
 * [Atlassian](#atlassian)
 * [Basecamp](#basecamp)
 * [BBC](#bbc)
+* [BOX](#box)
 * [CapitalOne](#capitalone)
 * [CircleCI](#circleci)
 * [DBS](#dbs)
 * [Deliveroo](#deliveroo)
+* [Dropbox](#dropbox)
+* [ebay](#ebay)
 * [Elastic](#elastic)
 * [Etsy](#etsy)
 * [Facebook](#facebook)
+* [Freshworks](#freshworks)
+* [Foursquare](#foursquare)
 * [Grab](#grab)
 * [Grammarly](#grammarly)
 * [GitHub](#github)
@@ -28,8 +33,10 @@
 * [Gojek](#gojek)
 * [GovTech Singapore](#govtech-singapore)
 * [Hashicorp](#hashicorp)
+* [HEROKU](#heroku)
 * [IBM](#ibm)
 * [Instagram](#instagram)
+* [Khanacademy](#khanacademy)
 * [LinkedIn](#linkedin)
 * [Lyft](#lyft)
 * [MadeTech](#madetech)
@@ -37,7 +44,9 @@
 * [Monzo](#monzo)
 * [Netflix](#netflix)
 * [Paypal](#paypal)
+* [Pinterest](#pinterest)
 * [Postman](#postman)
+* [Quora](#quroa)
 * [Salesforce](#salesforce)
 * [Shopify](#shopify)
 * [Slack](#slack)
@@ -50,16 +59,16 @@
 * [Twitter](#twitter)
 * [Uber](#uber)
 * [Walmart Labs](#walmart-labs)
+* [WeWork](#wework)
 * [Wix Engineering](#wix-engineering)
+* [Yelp](#yelp)
 * [Zozo Technologies](#zozo-technologies)
 
 ---
-
 ## Airbnb
 ![Twitter](https://img.shields.io/twitter/follow/AirbnbEng?style=social)
-* [Blog](https://medium.com/airbnb-engineering)
+* [Blog](https://medium.com/airbnb-engineering) | [RSS Feed](https://medium.com/feed/airbnb-engineering)
 * [GitHub Page](https://github.com/airbnb)
-* [RSS Feed](https://medium.com/feed/airbnb-engineering)
 
 ## Amazon
 * [Blog](https://developer.amazon.com/blogs)
@@ -71,19 +80,17 @@
 
 ## Asana
 ![Twitter](https://img.shields.io/twitter/follow/AsanaEng?style=social)
-* [Blog](https://blog.asana.com/category/eng/)
+* [Blog](https://blog.asana.com/category/eng/) | [RSS Feed](https://blog.asana.com/feed/)
 * [Engineering Culture](https://blog.asana.com/category/eng-culture/)
 * [GitHub Page](https://github.com/Asana)
 * [Publication: wavelength](https://wavelength.asana.com)
-* [RSS Feed](https://blog.asana.com/feed/)
 
 ## Atlassian
-* [Blog](https://www.atlassian.com/blog/atlassian-engineering)
+* [Blog](https://www.atlassian.com/blog/atlassian-engineering) | [RSS Feed](https://www.atlassian.com/engineering/feed)
 * [GitHub Page](https://github.com/atlassian)
-* [RSS Feed](https://www.atlassian.com/engineering/feed)
 
 ## Basecamp
-* [Blog](https://m.signalvnoise.com/)
+* [Blog](https://m.signalvnoise.com/) | [RSS Feed](https://m.signalvnoise.com/feed/)
 * [GitHub Page](https://github.com/basecamp)
 * [Handbook](https://github.com/basecamp/handbook)
 * Books
@@ -92,17 +99,19 @@
   * [REWORK](https://basecamp.com/books/rework)
   * [REMOTE](https://basecamp.com/books/remote)
   * [Getting Real](https://basecamp.com/books/getting-real)
-* [RSS Feed](https://m.signalvnoise.com/feed/)
 
 ## BBC
 * [Blog](https://www.bbc.co.uk/blogs/internet)
 * [GitHub Page](https://github.com/bbc)
 
+## BOX
+* [Blog](https://medium.com/box-tech-blog) | [RSS Feed](https://medium.com/feed/box-tech-blog)
+* [GitHub Page](https://github.com/box)
+
 ## CapitalOne 
 ![Twitter](https://img.shields.io/twitter/follow/CapitalOneTech?style=social)
-* [Blog](https://medium.com/capital-one-tech)
+* [Blog](https://medium.com/capital-one-tech) | [RSS Feed](https://medium.com/feed/capital-one-tech)
 * [GitHub Page](https://github.com/capitalone)
-* [RSS Feed](https://medium.com/feed/capital-one-tech)
 
 ## CircleCI
 * [Blog](https://circleci.com/blog/tag/engineering/)
@@ -114,33 +123,43 @@
 
 ## Deliveroo 
 ![Twitter](https://img.shields.io/twitter/follow/DeliverooEng?style=social)
-* [Blog](https://deliveroo.engineering/)
+* [Blog](https://deliveroo.engineering/) | [RSS Feed](https://deliveroo.engineering/feed.xml)
 * [GitHub Page](https://github.com/deliveroo)
-* [RSS Feed](https://deliveroo.engineering/feed.xml)
+
+## Dropbox
+* [Blog](https://dropbox.tech/)
+* [GitHub Project](https://github.com/dropbox)
+
+## ebay
+* [Blog](https://tech.ebayinc.com/) | [RSS Feed](https://tech.ebayinc.com/rss/)
+* [GitHub Page](https://github.com/eBay)
 
 ## Elastic
-* [Blog](https://www.elastic.co/blog/category/engineering)
+* [Blog](https://www.elastic.co/blog/category/engineering) | [RSS Feed](https://www.elastic.co/blog/feed)
 * [Culture](https://www.elastic.co/blog/category/culture)
 * [GitHub Page](https://github.com/elastic)
-* [RSS Feed](https://www.elastic.co/blog/feed)
 
 ## Etsy
 ![Twitter](https://img.shields.io/twitter/follow/codeascraft?style=social)
-* [Blog](https://codeascraft.com/)
+* [Blog](https://codeascraft.com/) | [RSS Feed](https://codeascraft.com/feed/)
 * [GitHub Page](https://github.com/etsy)
-* [RSS Feed](https://codeascraft.com/feed/)
 
 ## Facebook
 ![Twitter](https://img.shields.io/twitter/follow/fb_engineering?style=social)
-* [Blog](https://engineering.fb.com/)
+* [Blog](https://engineering.fb.com/) | [RSS Feed](https://engineering.fb.com/feed/)
 * [GitHub Page](https://github.com/facebook)
-* [RSS Feed](https://engineering.fb.com/feed/)
+
+## Freshworks
+* [Blog](https://medium.com/freshworks-engineering-blog) | [RSS Feed](https://medium.com/feed/freshworks-engineering-blog)
+
+## Foursquare
+* [Blog](https://developer.foursquare.com/developer-blog/)
+* [GitHub Page](https://github.com/foursquare)
 
 ## Grab
 ![Twitter](https://img.shields.io/twitter/follow/grabengineering?style=social)
-* [Blog](https://engineering.grab.com/)
+* [Blog](https://engineering.grab.com/) | [RSS Feed](https://engineering.grab.com/feed.xml)
 * [GitHub Page](https://github.com/grab)
-* [RSS Feed](https://engineering.grab.com/feed.xml)
 
 ## Grammarly
 * [Blog](https://www.grammarly.com/blog/engineering/)
@@ -148,14 +167,12 @@
 
 ## GitHub
 ![Twitter](https://img.shields.io/twitter/follow/GitHubEng?style=social)
-* [Blog](https://github.blog/category/engineering/)
+* [Blog](https://github.blog/category/engineering/) | [RSS Feed](https://github.blog/category/engineering/feed/)
 * [GitHub Page](https://github.com/github)
-* [RSS Feed](https://github.blog/category/engineering/feed/)
 
 ## GitLab
-* [Blog](https://about.gitlab.com/blog/categories/engineering/)
+* [Blog](https://about.gitlab.com/blog/categories/engineering/) | [RSS Feed](https://about.gitlab.com/atom.xml)
 * [Handbook](https://about.gitlab.com/handbook/)
-* [RSS Feed](https://about.gitlab.com/atom.xml)
 
 ## Google
 * [Blog](https://developers.googleblog.com/)
@@ -170,9 +187,8 @@
 
 ## Gojek
 ![Twitter](https://img.shields.io/twitter/follow/gojektech?style=social)
-* [Blog](https://blog.gojekengineering.com/)
+* [Blog](https://blog.gojekengineering.com/) | [RSS Feed](https://blog.gojekengineering.com/feed)
 * [GitHub Page](https://github.com/gojek)
-* [RSS Feed](https://blog.gojekengineering.com/feed)
 
 ## GovTech Singapore
 ![Twitter](https://img.shields.io/twitter/follow/GovTechSG?style=social)
@@ -180,38 +196,44 @@
 * [GitHub Page](https://github.com/GovTechSG)
 
 ## Hashicorp
-* [Blog](https://medium.com/hashicorp-engineering)
+* [Blog](https://medium.com/hashicorp-engineering) | [RSS Feed](https://medium.com/feed/hashicorp-engineering)
 * [GitHub Pages](https://github.com/hashicorp)
-* [RSS Feed](https://medium.com/feed/hashicorp-engineering)
+
+## HEROKU
+* [Blog](https://blog.heroku.com/engineering) | [RSS Feed](https://blog.heroku.com/engineering/feed)
 
 ## IBM
 * [Blog](https://developer.ibm.com/blogs/)
 * [GitHub Page](https://github.com/IBM)
 
 ## Instagram
-* [Blog](https://instagram-engineering.com/)
+* [Blog](https://instagram-engineering.com/) | [RSS Feed](https://instagram-engineering.com/feed)
 * [GitHub Page](https://github.com/Instagram)
-* [RSS Feed](https://instagram-engineering.com/feed)
+
+## Intuit
+* [Blog](https://www.intuit.com/blog/category/technology/engineering/) | [RSS Feed](https://www.intuit.com/blog/category/technology/engineering/feed/)
+* [GitHub Page](https://github.com/intuit)
+
+## Khanacademy
+* [Blog](https://blog.khanacademy.org/engineering/)
+* [GitHub Page](https://github.com/Khan)
 
 ## LinkedIn
 ![Twitter](https://img.shields.io/twitter/follow/LinkedInEng?style=social)
-* [Blog](https://engineering.linkedin.com/blog)
+* [Blog](https://engineering.linkedin.com/blog) | [RSS Feed](https://engineering.linkedin.com/blog.rss.html)
 * [GitHub Page](https://github.com/linkedin)
-* [RSS Feed](https://engineering.linkedin.com/blog.rss.html)
 
 ## Lyft
 ![Twitter](https://img.shields.io/twitter/follow/lyfteng?style=social)
-* [Blog](https://eng.lyft.com/)
+* [Blog](https://eng.lyft.com/) | [RSS Feed](https://eng.lyft.com/feed)
 * [GitHub Page](https://github.com/lyft)
-* [RSS Feed](https://eng.lyft.com/feed)
 
 ## MadeTech
-* [Blog](https://www.madetech.com/blog)
+* [Blog](https://www.madetech.com/blog) | [RSS Feed](https://www.madetech.com/rss.xml)
 * [GitHub Page](https://github.com/madetech)
 * [Handbook](https://github.com/madetech/handbook)
 * Books
   * [Building High Performance Agile Teams](https://www.madetech.com/resources/books/building-high-performance-agile-teams)
-* [RSS Feed](https://www.madetech.com/rss.xml)
 
 ## Microsoft
 * [Blog](https://devblogs.microsoft.com/)
@@ -223,22 +245,27 @@
 * [GitHub Page](https://github.com/monzo)
 
 ## Netflix
-![Twitter](https://img.shields.io/twitter/follow/NetflixEng?style=social)
+![Twitter](https://img.shields.io/twitter/follow/NetflixEng?style=social) | [RSS Feed](https://netflixtechblog.com/feed)
 * [Blog](https://netflixtechblog.com/)
 * [GitHub Page](https://github.com/Netflix)
 * [Handbook](https://jobs.netflix.com/culture)
-* [RSS Feed](https://netflixtechblog.com/feed)
 
 ## Paypal
 ![Twitter](https://img.shields.io/twitter/follow/PayPalEng?style=social)
-* [Blog](https://medium.com/paypal-engineering)
+* [Blog](https://medium.com/paypal-engineering) | [RSS Feed](https://medium.com/feed/paypal-engineering)
 * [GitHub Page](https://github.com/paypal)
-* [RSS Feed](https://medium.com/feed/paypal-engineering)
+
+## Pinterest
+![Twitter](https://img.shields.io/twitter/follow/PinterestEng?style=social)
+* [Blog](https://medium.com/@Pinterest_Engineering) | [RSS Feed](https://medium.com/feed/@Pinterest_Engineering)
 
 ## Postman
-* [Blog](https://medium.com/better-practices)
+* [Blog](https://medium.com/better-practices) | [RSS Feed](https://medium.com/feed/better-practices)
 * [GitHub Page](https://github.com/postmanlabs)
-* [RSS Feed](https://medium.com/feed/better-practices)
+
+## Quora
+* [Blog](https://www.quora.com/q/quoraengineering)
+* [GitHub Page](https://github.com/quora)
 
 ## Salesforce
 * [Blog](https://developer.salesforce.com/blogs/engineering/)
@@ -257,34 +284,29 @@
 
 ## Spotify
 ![Twitter](https://img.shields.io/twitter/follow/SpotifyEng?style=social)
-* [Blog](https://labs.spotify.com/)
+* [Blog](https://labs.spotify.com/) | [RSS Feed](https://engineering.atspotify.com/feed/)
 * [GitHub Page](https://github.com/Spotify)
-* [RSS Feed](https://engineering.atspotify.com/feed/)
 
 ## Stack Overflow
-* [Blog](https://stackoverflow.blog/engineering/)
+* [Blog](https://stackoverflow.blog/engineering/) | [RSS Feed](https://stackoverflow.blog/feed/)
 * [GitHub Page](https://github.com/StackExchange)
-* [RSS Feed](https://stackoverflow.blog/feed/)
 
 ## Stripe
-* [Blog](https://stripe.com/blog/engineering)
+* [Blog](https://stripe.com/blog/engineering) | [RSS Feed](https://stripe.com/blog/feed.rss)
 * [GitHub Page](https://github.com/stripe)
 * [Magazine: Increment](http://increment.com/) - _A quarterly magazine on Software Engineering topics_
-* [RSS Feed](https://stripe.com/blog/feed.rss)
 
 ## TravisCI
 * [Blog](https://blog.travis-ci.com/)
 * [GitHub Page](https://github.com/travis-ci)
 
 ## The Guardian
-* [Blog](https://www.theguardian.com/info/series/digital-blog)
+* [Blog](https://www.theguardian.com/info/series/digital-blog) | [RSS Feed](https://www.theguardian.com/info/series/engineering-blog/rss)
 * [GitHub Page](https://github.com/guardian)
-* [RSS Feed](https://www.theguardian.com/info/series/engineering-blog/rss)
 
 ## Thoughtbot
-* [Blog](https://thoughtbot.com/blog)
+* [Blog](https://thoughtbot.com/blog) | [RSS Feed](https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots)
 * [GitHub Page](https://github.com/thoughtbot)
-* [RSS Feed](https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots)
 
 ## Twitter
 ![Twitter](https://img.shields.io/twitter/follow/TwitterEng?style=social)
@@ -293,25 +315,30 @@
 
 ## Uber
 ![Twitter](https://img.shields.io/twitter/follow/UberEng?style=social)
-* [Blog](https://eng.uber.com/)
+* [Blog](https://eng.uber.com/) | [RSS Feed](https://eng.uber.com/feed/)
 * [GitHub Page](https://github.com/uber)
-* [RSS Feed](https://eng.uber.com/feed/)
 
 ## Walmart
-![Twitter](https://img.shields.io/twitter/follow/Walmartlabs?style=social)
+![Twitter](https://img.shields.io/twitter/follow/Walmartlabs?style=social) | [RSS Feed](https://medium.com/feed/walmartglobaltech)
 * [Blog](https://medium.com/walmartglobaltech)
 * [GitHub Page](https://github.com/walmartlabs)
-* [RSS Feed](https://medium.com/feed/walmartglobaltech)
+
+## WeWork
+* [Blog](https://engineering.wework.com/) | [RSS Feed](https://engineering.wework.com/feed)
+* [GitHub Page](https://github.com/wework)
 
 ## Wix Engineering
 * [Blog](https://www.wix.engineering/blog)
 * [GitHub Page](https://github.com/wix)
 
+## Yelp
+* [Blog](https://engineeringblog.yelp.com/) | [RSS Feed](https://engineeringblog.yelp.com/feed.xml)
+* [GitHub Page](https://yelp.github.io/)
+
 ## Zozo Technologies
 Zozo Technologies is a Japanese tech firm
-* [Blog](https://techblog.zozo.com/)
+* [Blog](https://techblog.zozo.com/) | [RSS Feed](https://techblog.zozo.com/rss)
 * [GitHub Page](https://github.com/st-tech)
-* [RSS Feed](https://techblog.zozo.com/rss)
 
 ---
 ## Book Recommendations
