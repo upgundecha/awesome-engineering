@@ -42,8 +42,10 @@
 * [Lyft](#lyft)
 * [MadeTech](#madetech)
 * [Microsoft](#microsoft)
+* [Miro](#miro)
 * [Monzo](#monzo)
 * [Netflix](#netflix)
+* [Ninja Van](#ninja-van)
 * [Paypal](#paypal)
 * [Pinterest](#pinterest)
 * [Postman](#postman)
@@ -52,6 +54,7 @@
 * [Scribd](#scribd)
 * [Shopify](#shopify)
 * [Slack](#slack)
+* [Soundcloud](#soundcloud)
 * [Spotify](#spotify)
 * [Stack Overflow](#stack-overflow)
 * [Stripe](#stripe)
@@ -62,6 +65,7 @@
 * [Uber](#uber)
 * [Walmart Labs](#walmart-labs)
 * [WeWork](#wework)
+* [Wingify](#wingify)
 * [Wix Engineering](#wix-engineering)
 * [Xendit](#xendit)
 * [Yelp](#yelp)
@@ -248,11 +252,14 @@
 * [Blog](https://devblogs.microsoft.com/)
 * [GitHub Page](https://github.com/microsoft)
 
+## Miro
+* [Blog](https://medium.com/miro-engineering) | [RSS Feed](https://medium.com/feed/miro-engineering)
+* [GitHub Page](https://github.com/miroapp)
+
 ## Monzo
 * [Blog](https://monzo.com/blog/technology)
 * [GitHub Page](https://github.com/monzo)
 * Twitter [@MakingMonzo](https://twitter.com/MakingMonzo)
-
 
 ## Netflix
 * [Blog](https://netflixtechblog.com/) | [RSS Feed](https://netflixtechblog.com/feed)
@@ -260,6 +267,9 @@
 * [Handbook](https://jobs.netflix.com/culture)
 * Twitter [@NetflixEng](https://twitter.com/NetflixEng)
 
+## Ninja Van
+* [Blog](https://medium.com/ninjavan-tech) | [RSS Feed](https://medium.com/feed/ninjavan-tech)
+* [GitHub Page](https://github.com/ninja-van)
 
 ## Paypal
 * [Blog](https://medium.com/paypal-engineering) | [RSS Feed](https://medium.com/feed/paypal-engineering)
@@ -300,6 +310,9 @@
 * [GitHub Page](https://github.com/slackhq)
 * Twitter [@SlackEng](https://twitter.com/SlackEng)
 
+## Soundcloud
+* [Blog](https://developers.soundcloud.com/blog/) | [RSS Feed](https://developers.soundcloud.com/blog/blog.rss)
+* [GitHub Page](https://github.com/soundcloud)
 
 ## Spotify
 * [Blog](https://labs.spotify.com/) | [RSS Feed](https://engineering.atspotify.com/feed/)
@@ -348,6 +361,11 @@
 ## WeWork
 * [Blog](https://engineering.wework.com/) | [RSS Feed](https://engineering.wework.com/feed)
 * [GitHub Page](https://github.com/wework)
+
+## Wingify
+* [Blog](https://engineering.wingify.com/) | [RSS Feed](https://engineering.wingify.com/atom.xml)
+* [GitHub Page](https://github.com/wingify)
+
 
 ## Wix Engineering
 * [Blog](https://www.wix.engineering/blog)
