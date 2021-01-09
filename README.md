@@ -49,7 +49,8 @@
 * [Paypal](#paypal)
 * [Pinterest](#pinterest)
 * [Postman](#postman)
-* [Quora](#quroa)
+* [Quora](#quora)
+* [Reddit](#reddit)
 * [Salesforce](#salesforce)
 * [Scribd](#scribd)
 * [Shopify](#shopify)
@@ -276,11 +277,9 @@
 * [GitHub Page](https://github.com/paypal)
 * Twitter [@PayPalEng](https://twitter.com/PayPalEng)
 
-
 ## Pinterest
 * [Blog](https://medium.com/@Pinterest_Engineering) | [RSS Feed](https://medium.com/feed/@Pinterest_Engineering)
 * Twitter [@PinterestEng](https://twitter.com/PinterestEng)
-
 
 ## Postman
 * [Blog](https://medium.com/better-practices) | [RSS Feed](https://medium.com/feed/better-practices)
@@ -289,6 +288,10 @@
 ## Quora
 * [Blog](https://www.quora.com/q/quoraengineering)
 * [GitHub Page](https://github.com/quora)
+
+## Reddit
+* [Blog](https://redditblog.com/topic/technology/) | [RSS Feed](https://redditblog.com/topic/technology/feed/)
+* [GitHub Page](https://github.com/reddit)
 
 ## Salesforce
 * [Blog](https://developer.salesforce.com/blogs/engineering/)
