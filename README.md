@@ -438,6 +438,7 @@
 ## Wix Engineering
 * [Blog](https://www.wix.engineering/blog)
 * [GitHub Page](https://github.com/wix)
+* Twitter [@WixEng](https://twitter.com/WixEng)
 
 ## Xendit
 * [Blog](https://medium.com/xendit-engineering) | [RSS Feed](https://medium.com/feed/xendit-engineering)
