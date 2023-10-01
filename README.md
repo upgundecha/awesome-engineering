@@ -109,7 +109,7 @@
 * Twitter [@fb_engineering](https://twitter.com/fb_engineering)
 
 ## Figma
-* [Blog](https://www.figma.com/blog/section/engineering/)
+* [Blog](https://www.figma.com/blog/engineering/)
 
 ## Flipkart
 * [Blog](https://tech.flipkart.com/)
@@ -184,7 +184,7 @@
 * [Blog](https://tech.instacart.com/)
 
 ## Instagram
-* [Blog](https://instagram-engineering.com/) | [RSS Feed](https://instagram-engineering.com/feed)
+* [Blog](https://engineering.fb.com/tag/instagram/) | [RSS Feed](https://instagram-engineering.com/feed)
 * [GitHub Page](https://github.com/Instagram)
 
 ## Intuit
@@ -271,7 +271,7 @@
 * [GitHub Page](https://github.com/reddit)
 
 ## Salesforce
-* [Blog](https://developer.salesforce.com/blogs/engineering/)
+* [Blog](https://engineering.salesforce.com/blog/)
 * [GitHub Page](https://github.com/salesforce)
 
 ## Scribd
